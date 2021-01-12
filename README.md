@@ -14,7 +14,7 @@
 * If you're looking for a new member on your hackathon team, reach out!
 
 ## Contact Me
-* You can feel in the contact form on www.jolieip.com to reach me!
+* You can fill in the contact form on www.jolieip.com to reach me!
 
 ## Github
 * Feel free to browse through my Github repositories to get a sense of what I have been working on!
