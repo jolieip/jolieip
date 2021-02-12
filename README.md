@@ -1,7 +1,6 @@
 ## About Me 👋
 * Current sophomore majoring in Computer Science at Cascadia College.
 * Programming languages: Java, C#, Swift, Python, Javascript
-* Seeking SWE internships for Winter,Spring and Summer 2021.
 * Pronouns: She/Her/Hers
 
 ## 🌱 Learning
