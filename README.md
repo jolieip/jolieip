@@ -8,8 +8,12 @@
 * Mobile App development
 * Joining hackathons!
 
+## Clubs and Affliations
+* I am a graphic designer and program manager at UW Blockchain Society. 
+* Member of Society of Women Engineers, Women in Cybersecurity 
+
 ## Contact Me
-* You can fill in the contact form on www.jolieip.com to reach me!
+* You can fill in the contact form on www.jolieip.com to reach me! 
 
 ## Github
 * Feel free to browse through my Github repositories to get a sense of what I have been working on!
