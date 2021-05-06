@@ -13,7 +13,9 @@
 * Member of Society of Women Engineers, Women in Cybersecurity 
 
 ## Contact Me
-* You can fill in the contact form on www.jolieip.com to reach me! 
+Feel free to reach out for a chat!
+* You can fill in the contact form on www.jolieip.com to reach me
+* LinkedIn: https://www.linkedin.com/in/jolieip/
 
 ## Github
 * Feel free to browse through my Github repositories to get a sense of what I have been working on!
