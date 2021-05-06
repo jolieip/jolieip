@@ -1,16 +1,12 @@
 ## About Me 👋
-* Current sophomore majoring in Computer Science at Cascadia College.
+* Rising junior majoring in Computer Science at the University of Washington.
 * Programming languages: Java, C#, Swift, Python, Javascript
 * Pronouns: She/Her/Hers
 
-## 🌱 Learning
-* Full Stack Web Development
+## 🌱 Interests
+* Entrepreneurship/Startups/Venture
 * Mobile App development
-* Data Visualization
-
-## 👯 Open for collaboration on:
-* Software Projects including but not limited to iOS app development, open source projects and front-end web development.
-* If you're looking for a new member on your hackathon team, reach out!
+* Joining hackathons!
 
 ## Contact Me
 * You can fill in the contact form on www.jolieip.com to reach me!
