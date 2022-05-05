@@ -1,6 +1,6 @@
 ## About Me 👋
-* Rising junior majoring in Computer Science at the University of Washington.
-* Programming languages: Java, C#, Swift, Python, Javascript
+* Junior majoring in Computer Science at the University of Washington.
+* Programming languages: Java, C#, Swift, Python
 * Pronouns: She/Her/Hers
 
 ## 🌱 Interests
@@ -8,13 +8,11 @@
 * Mobile App development
 * Joining hackathons!
 
-## Clubs and Affliations
-* I am a graphic designer and program manager at UW Blockchain Society. 
-* Member of Society of Women Engineers, Women in Cybersecurity 
+## Clubs and Affliations 
+* Society of Women Engineers, Women in Cybersecurity, Association for Computing Machinery
 
-## Contact Me
+## 📫 Contact Me
 Feel free to reach out for a chat!
-* You can fill in the contact form on www.jolieip.com to reach me
 * LinkedIn: https://www.linkedin.com/in/jolieip/
 
 ## Github
