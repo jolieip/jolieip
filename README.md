@@ -18,7 +18,7 @@ Feel free to reach out for a chat!
 ## Github
 * Feel free to browse through my Github repositories to get a sense of what I have been working on!
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jolieip)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jolieip/jolieip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
