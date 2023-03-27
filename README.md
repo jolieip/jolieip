@@ -1,5 +1,5 @@
 ## About Me 👋
-* Junior majoring in Computer Science at the University of Washington.
+* Senior majoring in Computer Science at the University of Washington.
 * Programming languages: Java, C#, Swift, Python
 * Pronouns: She/Her/Hers
 
